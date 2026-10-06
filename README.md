@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MiltonChino
-- 👀 I’m interested in Computer Science, and Information technologies
-- 🌱 I’m currently learning applied programming with Kotlin
-- 💞️ I’m looking to collaborate on python, Kotlin, and Javascript projects
-- 📫 How to reach me ...miltonchinowrk@gmail.com
+- 👀 I’m interested in information technology and engineering
+- 🌱 I’m currently learning ASP.NET with C# 
+- 💞️ I’m looking to collaborate on Python, JavaScript, and .NET projects
+- 📫 How to reach me:...miltonchinowrk@gmail.com
 
 <!---
 MiltonChino/MiltonChino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
